@@ -78,5 +78,5 @@ Mongo db
 ## Dependencies
 Front end - React - 5 days<br>
 Back end - (Node js + Express js) - 5 days<br>
-Database - Mongo db
-Cost - Rs.20,000
+Database - Mongo db<br>
+Budget - Rs.20,000
