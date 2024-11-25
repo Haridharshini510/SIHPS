@@ -69,7 +69,11 @@ For alumni to give feedback regarding events, and also take surveys regarding th
 
 
 ## Technology Stack
-
+(MERN STACK)
+React 
+Node js
+Express js
+Mongo db
 
 ## Dependencies
 
