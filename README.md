@@ -79,3 +79,4 @@ Mongo db
 Front end - React - 5 days<br>
 Back end - (Node js + Express js) - 5 days<br>
 Database - Mongo db
+Cost - Rs.20,000
