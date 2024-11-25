@@ -10,16 +10,62 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+Alumni registration:
 
-![Desktop - 1](https://github.com/user-attachments/assets/23bf9408-85cc-4ca7-9f95-fe5d8c5604d9)
+Allows user-friendly registration portal for alumni to use the web app or application. Easier registration process enables many more alumni to register in the portal.
+
+Profile-Creation:
+
+Allows users to create their own profile and design it by editing usernames, profile pictures, About and emoticon
+which allows them to make posts of their achievements and useful events that are going to be conducted by them or in their premises. 
+
+Success-Tracker:
+
+In the profile, there exists a separate space for users that allows them to add their achievements or milestones and thereby shows their professional journey like a map. 
+
+Giving back gateway:
+
+Through the Giving Back Gateway, alumni can contribute to initiatives that shape the future of the college. Whether it’s supporting scholarships, funding infrastructure, or backing innovative projects, every contribution helps build a legacy of excellence. Join hands with fellow alumni to empower the next generation and keep the spirit of giving alive.
+
+Campus connect live:
+
+This name shows the connection between the university, its alumni, and the events being streamed, creating a bridge for those who can't attend in person. It conveys accessibility and inclusivity while maintaining a professional and modern tone. This also includes a live chat section where other alumni can interact with each other and also find solutions to queries or problems in their professional life. 
+
+CareerHub:
+
+Allows alumni to add entries regarding the available job opportunities in their premises or their own companies for different professions and career paths.
+This also connects alumni and students in need of help with their career paths to the alumni who added the entries and thereby helps them in many ways. This also helps alumni and students gain mentorship opportunities.
+
+AI powered Network Hub:
+
+Connects alumni with similar interests. The hub suggests connections based on shared interests, industries, locations, or professional goals. AI helps to summarize interests and shows related content and profiles on the for you page.  
+
+Voice assistant:
+
+If there is a problem in locating things on the application, AI voice assistant comes into play. For senior alumni and any other person who has difficulty in accessing the application can use this voice assistant to get their work done easily. 
+
+Alumni Marketplace:
+
+A section where alumni can promote their businesses, products, or services. This enables fellow alumni and students to connect and collaborate with each other creating a lively environment.
+
+EventSphere(announcements):
+
+Helps you to stay connected with the university. All info related to events, reunions, celebrations will be updated here.
+
+Feedback and Surveys:
+
+For alumni to give feedback regarding events, and also take surveys regarding the university.
+
 
 
 ## Proposed Solution / Architecture Diagram
-![Frame 1](https://github.com/user-attachments/assets/b1e57d31-132e-4b2e-8724-30122a4e7191)
+![Desktop - 1](https://github.com/user-attachments/assets/23bf9408-85cc-4ca7-9f95-fe5d8c5604d9)
 
 
 
 ## Use Cases
+![Frame 1](https://github.com/user-attachments/assets/b1e57d31-132e-4b2e-8724-30122a4e7191)
+
 
 
 ## Technology Stack
