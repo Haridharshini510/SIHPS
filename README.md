@@ -11,8 +11,11 @@ Government of Gujarat
 
 ## Idea
 
+![Desktop - 1](https://github.com/user-attachments/assets/23bf9408-85cc-4ca7-9f95-fe5d8c5604d9)
+
 
 ## Proposed Solution / Architecture Diagram
+![Uploading Frame 1.png…]()
 
 
 ## Use Cases
