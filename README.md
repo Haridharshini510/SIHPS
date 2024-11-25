@@ -70,12 +70,12 @@ For alumni to give feedback regarding events, and also take surveys regarding th
 
 ## Technology Stack
 (MERN STACK)
-React 
-Node js
-Express js
+React<br> 
+Node js <br>
+Express js <br>
 Mongo db
 
 ## Dependencies
-Front end - React - 5 days
-Back end - (Node js + Express js) - 5 days
+Front end - React - 5 days<br>
+Back end - (Node js + Express js) - 5 days<br>
 Database - Mongo db
