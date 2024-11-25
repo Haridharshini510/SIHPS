@@ -76,4 +76,6 @@ Express js
 Mongo db
 
 ## Dependencies
-
+Front end - React - 5 days
+Back end - (Node js + Express js) - 5 days
+Database - Mongo db
